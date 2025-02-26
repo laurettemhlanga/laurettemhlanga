@@ -1,6 +1,3 @@
-# Hi, I'm Laurette Mhlanga!
-**Epidemiologist | Infectious Disease Modeler | Data Scientist**
-
 I am a **Postdoctoral Research Fellow at Loyola University Chicago** specializing in **infectious disease modeling, spatial data analysis, and machine learning**. My research focuses on applying **mathematical and statistical models to optimize public health interventions**, particularly in low-resource settings.
 
  **Key Areas of Expertise:**
