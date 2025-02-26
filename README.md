@@ -12,25 +12,25 @@ I am a **Postdoctoral Research Fellow at Northwestern University** specializing 
 
 ## 🚀 Featured Projects
 
-📌 **[MRPT (Malaria Re-Prioritization Tool)](https://github.com/urban-malaria/MRPT)**  
+📌 **[MRPT (Malaria Re-Prioritization Tool)]**  
 _A decision-support tool for malaria intervention planning._  
 - Developed using **R Shiny** for **interactive geospatial analysis**
 - Integrates **machine learning, small-area estimation, and composite score models**
 - Supports **offline processing** for malaria programs in low-resource settings
 
-📌 **[Spatial Epidemiology Models](https://github.com/urban-malaria/spatial-epidemiology)**  
+📌 **[Spatial Epidemiology Models]**  
 _Using geospatial and statistical models for disease burden estimation._  
 - Implements **spatial regression models** for epidemiological forecasting  
 - Uses **GIS techniques** to identify high-risk malaria transmission areas  
 - Built with **R (`sf`, `raster`, `spdep`) and Python (`geopandas`, `folium`)**
 
-📌 **[Machine Learning for Disease Forecasting](https://github.com/urban-malaria/ml-forecasting)**  
+📌 **[Machine Learning for Disease Forecasting]**  
 _Applying ML algorithms to predict health outcomes._  
 - Uses **XGBoost, LightGBM, and Random Forest** for malaria risk prediction  
 - Incorporates feature selection techniques to optimize model performance  
 - Implements **cross-validation and hyperparameter tuning**  
 
-📌 **[Sentiment Analysis for Health Research](https://github.com/urban-malaria/sentiment-health)**  
+📌 **[Sentiment Analysis for Health Research]**  
 _Analyzing text-based health data using NLP._  
 - Uses **`tidytext`, `sentimentr`, and `textTinyR`** for sentiment classification  
 - Compares **lexicon-based** and **ML-based sentiment scoring methods**  
@@ -49,9 +49,8 @@ _Analyzing text-based health data using NLP._
 
 ## 📜 Publications & Research Impact
 📖 **Selected Publications:**  
-- _"Geospatial Modeling for Malaria Control in Urban Africa"_ – [DOI Link]  
-- _"Machine Learning for Predicting Malaria Incidence in Low-Resource Settings"_ – [DOI Link]  
-- _"Evaluating Malaria Control Strategies Using Agent-Based Models"_ – [DOI Link]  
+- _"Evidence of HIV incidence reduction in young women, but not in adolescent girls, in KwaZulu-Natal, South Africa"_ – [https://doi.org/10.1016/j.ijregi.2023.07.004]  
+
 
 📢 **Conference Talks & Workshops:**  
 - Speaker at **MIDAS 2024, Women in Science, EARSeL Symposium**  
