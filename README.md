@@ -60,7 +60,7 @@ _Analyzing text-based health data using NLP._
 ---
 
 ## 🔗 Connect with Me
-💼 **[LinkedIn](https://www.linkedin.com/in/laurettemhlanga](https://www.linkedin.com/in/laurette-mhlanga-phd-6b94912b/)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/laurette-mhlanga-phd-6b94912b/)**  
 📜 **[Google Scholar](https://scholar.google.com/scholar?as_ylo=2024&q=laurette+mhlanga&hl=en&as_sdt=0,14)**  
 📧 **Email:** laurette@aims.ac.tz  
 
