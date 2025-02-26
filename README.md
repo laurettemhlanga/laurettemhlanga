@@ -39,20 +39,20 @@ _Analyzing text-based health data using NLP._
 ---
 
 ## Technical Skills
-**Programming:** R (Tidyverse, Shiny, caret, sf), Python (scikit-learn, geopandas, XGBoost)  
-**Geospatial Analysis:** QGIS, Leaflet, GeoPandas, Spatial Statistics  
-**Machine Learning:** XGBoost, LightGBM, GLMNET, Bayesian modeling  
-**Data Visualization:** ggplot2, plotly, leaflet, Dash  
-**Research & Publications:** Experienced in **scientific writing, statistical reporting, and public health impact analysis**  
+- **Programming:** R (Tidyverse, Shiny, caret, sf), Python (scikit-learn, geopandas, XGBoost)  
+- **Geospatial Analysis:** QGIS, Leaflet, GeoPandas, Spatial Statistics  
+- **Machine Learning:** XGBoost, LightGBM, GLMNET, Bayesian modeling  
+- **Data Visualization:** ggplot2, plotly, leaflet, Dash  
+ - **Research & Publications:** Experienced in **scientific writing, statistical reporting, and public health impact analysis**  
 
 ---
 
 ## Publications & Research Impact
 **Selected Publications:**  
-- [_Co-creation and application of a framework for the de-prioritization of urban communities during insecticide-treated bed net mass campaigns for malaria prevention and control in Kwara State, Nigeria_](https://link.springer.com/article/10.1186/s44263-025-00126-0)
-- [_"Evidence of HIV incidence reduction in young women, but not in adolescent girls, in KwaZulu-Natal, South Africa"_](https://doi.org/10.1016/j.ijregi.2023.07.004) 
-- [_"The role of wastewater-based epidemiology for SARS-CoV-2 in developing countries: Cumulative evidence from South Africa supports sentinel site surveillance to guide public health decision-making"_](https://doi.org/10.1016/j.scitotenv.2023.165817)
-- [_The evolution and interpretation of seroprevalence of SARS-CoV-2 antibodies among South African blood donors from the Beta to Omicron variant-driven waves_](https://doi.org/10.1111/vox.13571)
+- _Co-creation and application of a framework for the de-prioritization of urban communities during insecticide-treated bed net mass campaigns for malaria prevention and control in Kwara State, Nigeria_[link](https://link.springer.com/article/10.1186/s44263-025-00126-0)
+- _"Evidence of HIV incidence reduction in young women, but not in adolescent girls, in KwaZulu-Natal, South Africa"_[link](https://doi.org/10.1016/j.ijregi.2023.07.004) 
+- _"The role of wastewater-based epidemiology for SARS-CoV-2 in developing countries: Cumulative evidence from South Africa supports sentinel site surveillance to guide public health decision-making"_[link](https://doi.org/10.1016/j.scitotenv.2023.165817)
+- _The evolution and interpretation of seroprevalence of SARS-CoV-2 antibodies among South African blood donors from the Beta to Omicron variant-driven waves_[link](https://doi.org/10.1111/vox.13571)
 
 
 **Conference Talks & Workshops:**  
@@ -62,8 +62,8 @@ _Analyzing text-based health data using NLP._
 ---
 
 ## Connect with Me
-**[LinkedIn](https://www.linkedin.com/in/laurette-mhlanga-phd-6b94912b/)**  
-**[Google Scholar](https://scholar.google.com/scholar?as_ylo=2024&q=laurette+mhlanga&hl=en&as_sdt=0,14)**  
+ - **[LinkedIn](https://www.linkedin.com/in/laurette-mhlanga-phd-6b94912b/)**  
+ - **[Google Scholar](https://scholar.google.com/scholar?as_ylo=2024&q=laurette+mhlanga&hl=en&as_sdt=0,14)**  
 **Email:** laurette@aims.ac.tz  
 
 ---
