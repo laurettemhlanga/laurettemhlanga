@@ -27,7 +27,7 @@ _Applying ML algorithms to predict health outcomes._
 - Incorporates feature selection techniques to optimize model performance  
 - Implements **cross-validation and hyperparameter tuning**  
 
- **[Sentiment Analysis for Health Research]**  
+ **[Sentiment Analysis for Health Research](https://github.com/laurettemhlanga/nlp_classics)**  
 _Analyzing text-based health data using NLP._  
 - Uses **`tidytext`, `sentimentr`, and `textTinyR`** for sentiment classification  
 - Compares **lexicon-based** and **ML-based sentiment scoring methods**  
