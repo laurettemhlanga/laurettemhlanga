@@ -10,8 +10,8 @@ I am a **Postdoctoral Research Fellow at Loyola University Chicago** specializin
 ## Featured Projects
 
  **[Malaria Re-Prioritization Tool (MRPT)](https://urbanmalaria.shinyapps.io/mrpt/)**  
-_A decision-support tool for malaria intervention planning._  
-- Co - developed using **R Shiny** for **interactive geospatial analysis**
+_Co developed a decision-support tool for malaria intervention planning._  
+- Developed using **R Shiny** for **interactive geospatial analysis**
 - Integrates **machine learning, small-area estimation, and composite score models**
 - Supports **offline processing** for malaria programs in low-resource settings
 
